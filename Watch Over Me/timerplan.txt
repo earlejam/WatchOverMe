@@ -1,0 +1,27 @@
+//up click (state) {
+	if (state === settingMinutes) {
+		increase minutes under those conditions
+	}
+	else {
+		increase seconds under these conditions
+	}
+}
+
+//center click (state) {
+	if (state === settingMinutes) {
+		state = settingSeconds;
+	}
+	else {
+		save new timer and go to previous screen (main screen)
+	}
+}
+
+//down click (state) {
+	if (state === settingMinutes) {
+		decrease minutes under those conditions
+	}
+	else {
+		decrease seconds under these conditions
+	}
+
+}

@@ -1,0 +1,18 @@
+vibration every x seconds / mins to alert user that watchalert is on
+
+customizable: "panic button" or "safeguard mode"
+
+panic button - unexpected incident jeopordizing safety
+
+safeguard mode - e.g. a walk home from work late at night through a sketchy part of town (longer duration timer)
+
+WatchOverMe
+
+Geolocation ideas:
+- Get location of watch/phone every X amount of time (maybe 1 min) and send it in a message/alert to emergency contact(s) with some kind of explanation message.
+
+
+
+
+
+
